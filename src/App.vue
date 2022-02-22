@@ -3,12 +3,13 @@
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 import Navbar from './components/Navbar.vue'
 import Cards from './components/Cards.vue'
-
+import Footer from './components/Footer.vue'
 export default {
   name: 'App',
   components: {
     Navbar,
-    Cards
+    Cards,
+    Footer
   }
 }
 </script>
@@ -16,6 +17,7 @@ export default {
 <template>
   <Navbar />
   <Cards/>
+  <Footer/>
 </template>
 
 <style>

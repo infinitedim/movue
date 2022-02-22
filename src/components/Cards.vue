@@ -1,11 +1,11 @@
 <template>
-  <div class="card w-96 glass">
-  <figure><img src="https://api.lorem.space/image/car?w=400&h=225" alt="car!"></figure>
+  <div class="card card-side bg-base-100 shadow-xl">
+  <figure><img src="https://api.lorem.space/image/movie?w=200&h=280" alt="Movie"></figure>
   <div class="card-body">
-    <h2 class="card-title">Life hack</h2>
-    <p>How to park your car at your garage?</p>
+    <h2 class="card-title">New movie is released!</h2>
+    <p>Click the button to watch on Jetflix app.</p>
     <div class="justify-end card-actions">
-      <button class="btn btn-primary">Learn now!</button>
+      <button class="btn btn-primary">Watch</button>
     </div>
   </div>
 </div>
