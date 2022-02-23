@@ -21,6 +21,7 @@ export default {
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 * {
   padding: 0;
@@ -28,7 +29,7 @@ export default {
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
-  font-family: Sans-Serif;
+  font-family: 'Inter', Sans-Serif;
 }
 
 </style>
