@@ -1,6 +1,15 @@
 # Movue
 
-Movue is a pro
+<p align="center">
+<br>
+    <a href="https://img.shields.io/github/package-json/v/infinitedim/movue"><img src="https://img.shields.io/github/package-json/v/infinitedim/movue" alt="Version"></a>
+    <a href="https://github.com/infinitedim/movue/issues"><img src="https://img.shields.io/github/issues/infinitedim/movue" alt="GitHub issues"></a>
+    <a href="https://github.com/infinitedim/movue/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/infinitedim/movue"></a>
+    <a href="https://github.com/infinitedim/12-TKJ_1/blob/main/LICENSE"><img src="https://img.shields.io/github/license/infinitedim/movue" alt="License"></a>
+</p>
+<p align="center">
+Movue is a movie cast database using vue.
+</p>
 
 ## Installation
 
@@ -21,14 +30,25 @@ Movue is a pro
 
 3. Run development server or build production
 
+- Run using yarn
+
 ```bash
+    // development server
     yarn dev
-    or
+
+    // production build
     yarn build
 ```
 
+- Or run using npm
+
 ```bash
+    //development server
     npm run dev
+
+    //production build
+    npm run build
+
 ```
 
 #
