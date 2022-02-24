@@ -22,6 +22,7 @@ module.exports = {
   plugins: [require("daisyui")],
   daisyui: {
     themes: [
+      "luxury",
       "valentine",
       "black",
       "dark",
@@ -41,7 +42,6 @@ module.exports = {
       "pastel",
       "fantasy",
       "wireframe",
-      "luxury",
       "dracula",
       "cmyk",
       "autumn",

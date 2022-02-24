@@ -1,10 +1,9 @@
 <template>
 <footer class="p-10 footer bg-base-200 text-base-content footer-center rounded">
   <div class="grid grid-flow-col gap-4">
-    <a class="link link-hover">About us</a> 
-    <a class="link link-hover">Contact</a> 
-    <a class="link link-hover">Jobs</a> 
-    <a class="link link-hover">Press kit</a>
+    <a class="link link-hover">About</a> 
+    <a class="link link-hover">Contact Me</a> 
+    <a class="link link-hover">Hire me</a> 
   </div> 
   <div>
     <div class="grid grid-flow-col gap-4">
@@ -14,7 +13,7 @@
     </div>
   </div> 
   <div>
-    <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
+    <p>Copyright © 2022 - All right reserved by <a href="https://github.com/infinitedim">Infinitedim</a></p>
   </div>
 </footer>
 </template>
