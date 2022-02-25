@@ -65,6 +65,17 @@ Movue is a movie cast database using vue.
 
 ## Contributing
 
-#
+Contributing Guidelines
+Read through our <a href="https://github.com/infinitedim/12-TKJ_1/blob/main/CONTRIBUTING.md">Contributing Guidelines</a> to learn about how contribute to this project.
 
-## Lisence
+## All Contributors
+
+Thank you for contributing to this project, here are some amazing contributors!
+
+<a href="https://github.com/infinitedim/movue/graphs/contributors"><img src="https://contrib.rocks/image?repo=infinitedim/movue" alt="All of amazing contributors"></a>
+
+## License
+
+This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Happy Coding.
