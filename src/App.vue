@@ -4,18 +4,23 @@
 import Navbar from './components/Navbar.vue'
 import Cards from './components/Cards.vue'
 import Footer from './components/Footer.vue'
+import Hero from './components/Hero.vue'
+
 export default {
   name: 'App',
   components: {
     Navbar,
+    Hero,
     Cards,
     Footer
+
   }
 }
 </script>
 
 <template>
   <Navbar />
+  <Hero />
   <Cards/>
   <Footer/>
 </template>

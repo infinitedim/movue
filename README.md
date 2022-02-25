@@ -66,7 +66,7 @@ Movue is a movie cast database using vue.
 ## Contributing
 
 Contributing Guidelines
-Read through our <a href="https://github.com/infinitedim/12-TKJ_1/blob/main/CONTRIBUTING.md">Contributing Guidelines</a> to learn about how contribute to this project.
+Read through our <a href="https://github.com/infinitedim/movue/blob/main/CONTRIBUTING.md">Contributing Guidelines</a> to learn about how contribute to this project.
 
 ## All Contributors
 
