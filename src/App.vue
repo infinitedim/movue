@@ -21,8 +21,8 @@ export default {
 <template>
   <Navbar />
   <Hero />
-  <Cards/>
-  <Footer/>
+  <Cards />
+  <Footer />
 </template>
 
 <style>

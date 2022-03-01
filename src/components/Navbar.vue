@@ -1,5 +1,5 @@
 <template>
-  <div class="navbar bg-base-100s">
+  <div class="navbar bg-base-100s w-10/12 text-center">
       <h2 class="btn btn-ghost normal-case text-4xl">Movue</h2>
       <div class="navbar-end w-10/12">
         <ul
