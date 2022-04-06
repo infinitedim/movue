@@ -1,28 +1,22 @@
 <script>
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import Navbar from './components/Navbar.vue'
-import Cards from './components/Cards.vue'
-import Footer from './components/Footer.vue'
-import Hero from './components/Hero.vue'
+// import Navbar from './components/Navbar.vue'
+// import Cards from './components/Cards.vue'
+// import Footer from './components/Footer.vue'
+// import Hero from './components/Hero.vue'
+import Home from "./pages/Home.vue"
 
 export default {
   name: 'App',
   components: {
-    Navbar,
-    Hero,
-    Cards,
-    Footer
-
+    Home
   }
 }
 </script>
 
 <template>
-  <Navbar />
-  <Hero />
-  <Cards />
-  <Footer />
+  <Home /> 
 </template>
 
 <style>

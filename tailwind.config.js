@@ -11,43 +11,12 @@ module.exports = {
       lg: { max: "1023px" },
       // => @media (max-width: 1023px) { ... }
 
-      md: { max: "767px" },
+      md: { max: "768px" },
       // => @media (max-width: 767px) { ... }
 
-      sm: { max: "639px" },
+      sm: { max: "587px" },
       // => @media (max-width: 639px) { ... }
     },
     extend: {},
-  },
-  plugins: [require("daisyui")],
-  daisyui: {
-    themes: [
-      "luxury",
-      "valentine",
-      "black",
-      "dark",
-      "synthwave",
-      "light",
-      "cupcake",
-      "bumblebee",
-      "emerald",
-      "corporate",
-      "retro",
-      "cyberpunk",
-      "halloween",
-      "garden",
-      "forest",
-      "aqua",
-      "lofi",
-      "pastel",
-      "fantasy",
-      "wireframe",
-      "dracula",
-      "cmyk",
-      "autumn",
-      "business",
-      "acid",
-      "lemonade",
-    ],
   },
 };
